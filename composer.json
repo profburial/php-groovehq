@@ -13,7 +13,7 @@
     ]
     , "require": {
         "cakephp/utility": "dev-master"
-        , "guzzlehttp/guzzle": "4.*"
+        , "guzzlehttp/guzzle": "5.*"
         , "guzzlehttp/guzzle-services": "0.3.*"
         , "sabre/xml" : "dev-master"
     }
